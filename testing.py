@@ -1,3 +1,6 @@
+def hello0():
+	print 'pw should work now'
+
 def hello():
 	print 'please workkk'
 
