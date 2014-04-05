@@ -4,3 +4,5 @@ def hello():
 def hello2():
 	print 'this should also work heheh'
 
+def hello3():
+	print 'third commit'
